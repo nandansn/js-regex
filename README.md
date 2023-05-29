@@ -7,6 +7,7 @@
 ## tutorial
 
 [ref] (https://www.youtube.com/watch?v=DC-zzUrg0Ws&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD&index=3&ab_channel=TheNetNinja)
+[ref] (https://javascript.info/regular-expressions)
 
 ### Patterns and flags
 
